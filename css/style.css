@@ -10,7 +10,6 @@
     clear: both;
 }
 
-
 header{
     height: 80px;
     background-color: #3161E0;
@@ -20,18 +19,13 @@ header{
     float: left;
 }
 
-.destra{
-    float: right;
+.menu{
+    float: left;
 }
 
-
-nav li{
+nav ul li{
     display: inline-block;
-}
-
-nav ul{
     list-style: none;
-    text-align: center;
 }
 
 nav a{
@@ -39,5 +33,3 @@ nav a{
     color: white;
     margin: 15px;
 }
-
-
