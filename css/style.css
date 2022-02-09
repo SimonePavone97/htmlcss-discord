@@ -12,7 +12,6 @@
 
 
 header{
-
     height: 80px;
     background-color: #3161E0;
 }
@@ -31,7 +30,6 @@ nav li{
 }
 
 nav ul{
-    vertical-align: middle;
     list-style: none;
     text-align: center;
 }
